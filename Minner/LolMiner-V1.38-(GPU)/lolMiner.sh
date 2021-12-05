@@ -1,0 +1,1 @@
+./runner --config=./config.cfg
