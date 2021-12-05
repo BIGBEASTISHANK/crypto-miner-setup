@@ -1,1 +1,1 @@
-./runner --config=./config.cfg
+sudo ./runner --config=./config.cfg
