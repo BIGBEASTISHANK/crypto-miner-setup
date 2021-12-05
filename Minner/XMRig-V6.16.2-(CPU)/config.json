@@ -81,7 +81,7 @@
             [8, 1],
             [8, 2]
         ],
-        "rx": [0, 1],
+        "rx": [0, 1, 2, 3, 4, 5, 6, 7],
         "rx/arq": [0, 4, 1, 5, 2, 6, 3, 7],
         "rx/wow": [0, 1, 2, 3, 6, 7],
         "cn-lite/0": false,
@@ -104,7 +104,7 @@
         "cn-lite/0": false,
         "cn/0": true
     },
-    "log-file": null,
+    "log-file": "log.txt",
     "donate-level": 0,
     "donate-over-proxy": 1,
     "pools": [
